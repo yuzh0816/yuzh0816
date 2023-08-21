@@ -1,7 +1,13 @@
 ### Hi there 👋
 ### Here's my home!
 
-🌱 I’m currently learning VUE & Node.JS!
+
+- 🔭 I’m currently working on C# project: WinUI AGP
+- 🌱 I’m currently learning Vue.js & Node.JS!
+
+[![yuzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzh0816&show_icons=true)](https://github.com/anuraghazra/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuzh0816/yuzh0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
