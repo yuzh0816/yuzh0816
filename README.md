@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on C# project: WinUI AGP
 - 🌱 I’m currently learning Vue.js & Node.JS!
 
-[![yuzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzh0816&show_icons=true)](https://github.com/anuraghazra/)
+[![yuzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzh0816&show_icons=true)](https://github.com/yuzh0816/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
