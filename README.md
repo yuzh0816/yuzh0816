@@ -2,8 +2,7 @@
 ### Here's my home!
 
 
-- 🔭 I’m currently working on C# project: WinUI AGP
-- 🌱 I’m currently learning Vue.js & Node.JS!
+- 🔭 Currently working on a C# project: [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
 
 [![yuzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzh0816&show_icons=true)](https://github.com/yuzh0816/)
 
