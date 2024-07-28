@@ -2,7 +2,7 @@
 
 ### Here's my home!
 
-- 🔭 Currently working on [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
+- 🔭 Currently working on [Uotan Toolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT)
 - 📫 Contact me by email: yuzh0816@gmail.com
 
 ## Repositories
