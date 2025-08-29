@@ -2,10 +2,10 @@
 
 ### Here's my home!
 
-- 🔭 Currently working on [Uotan Toolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT)
+- 🖊 ECUST Undergraduat, Computer Science, 2024-2028
 - 📫 Contact me by email: yuzh0816@gmail.com
 
-## Repositories
+## Representitive works
 
 [![Uotan Toolbox NT](https://github-readme-stats.vercel.app/api/pin/?username=Uotan-Dev&repo=UotanToolboxNT)](https://github.com/Uotan-Dev/UotanToolboxNT)
 
