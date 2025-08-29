@@ -2,7 +2,7 @@
 
 ### Here's my home!
 
-- 🖊 ECUST Undergraduat, Computer Science, 2024-2028
+- 🖊 ECUST Undergraduate, Computer Science, 2024-2028
 - 📫 Contact me by email: yuzh0816@gmail.com
 
 ## Representitive works
