@@ -4,6 +4,7 @@
 
 - 🖊 ECUST Undergraduate, Computer Science, 2024-2028
 - 📫 Contact me by email: yuzh0816@gmail.com
+- 📃 Focusing on Reinforcement Learning + LLM
 
 ## Representitive works
 
